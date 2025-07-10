@@ -3,3 +3,7 @@ The header is in the "chrome.dll" file and is a sha1 hash of a google api key (A
 
 Example: 
 <img width="881" height="145" alt="image" src="https://github.com/user-attachments/assets/d9847894-3ba2-4630-be47-bcc1abbf3ef1" />
+
+Reversed by: https://t.me/kokandg
+
+https://csolver.xyz/
